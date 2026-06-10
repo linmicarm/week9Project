@@ -4,6 +4,10 @@ A React application that helps users discover volunteer opportunities from a pub
 
 ---
 
+<img width="999" height="925" alt="image" src="https://github.com/user-attachments/assets/ff109916-b29c-4b5c-9e5b-7b8aa7b562c6" />
+
+---
+
 ## What It Does
 
 - **Browse** real volunteer opportunities pulled live from the Volunteer Connector API
